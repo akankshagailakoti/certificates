@@ -17,7 +17,8 @@
 ### Code First Girls, UK
 
 **Coding Kickstarter Course**  
-[Data and SQL](https://github.com/akankshagailakoti/certificates/blob/3e96b3c576fd9eab537e360acae21fe55e20c878/Certificate%20-%20Akanksha%20Gailakoti.pdf)
+- [Data and SQL](https://github.com/akankshagailakoti/certificates/blob/3e96b3c576fd9eab537e360acae21fe55e20c878/Certificate%20-%20Akanksha%20Gailakoti.pdf)
+- [JavaScript](https://github.com/akankshagailakoti/certificates/blob/main/Certificate-javascript.png)
 
 ---
 
